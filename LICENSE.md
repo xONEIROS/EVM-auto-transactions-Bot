@@ -1,5 +1,6 @@
 # License
 
+
 All rights reserved. Unauthorized copying, distribution, modification, or any other use of this code or any part of it, is strictly prohibited unless explicit permission is granted by the author.
 
 ## Terms and Conditions
@@ -17,3 +18,5 @@ All rights reserved. Unauthorized copying, distribution, modification, or any ot
 ## Contact
 
 For any inquiries or permission requests, please contact the author at [xon3iros@gmail.com].
+
+### These days, there are a lot of bots for automatic transactions, but the features in this bot are all unique, making it a great experience.
