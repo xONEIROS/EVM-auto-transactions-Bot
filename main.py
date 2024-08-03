@@ -54,7 +54,6 @@ def get_gas_settings(w3):
     print(f"\nCurrent gas settings:")
     print(f"Gas Price: {gas_price_gwei:.2f} Gwei")
     print(f"Gas Limit: {gas_limit}")
-
     confirm = input("\nDo you want to use these gas settings? (y/n): ").lower()
     if confirm != 'y':
         gas_price_gwei = float(input("Enter new Gas Price (in Gwei): "))
